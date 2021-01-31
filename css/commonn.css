@@ -1,0 +1,20 @@
+/* :root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --primary-white-color: #ffffff;
+}
+
+.page {
+  background-color: var(--primary-bg-color);
+  color: var(--primary-text-color);
+}
+.button.primary {
+  background-color: var(--accent-color);
+  color: var(--primary-white-color);
+  border-color: transparent;
+}
+.button.socondary {
+  background-color: var(--primary-white-color);
+  color: var(--accent-color);
+  border-color: blue; */
