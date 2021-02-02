@@ -672,6 +672,7 @@ img {
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
+  margin-bottom: 40px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -753,7 +754,6 @@ img {
 .accent {
   color: #2196f3;
   font-family: "Raleway", sans-serif;
-  margin-right: 10px;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -1230,7 +1230,7 @@ img {
   line-height: 23px;
   text-align: center;
   letter-spacing: 0.03em;
-  margin-bottom: 30px;
+  margin-bottom: 12px;
   color: #212121;
 }
 
@@ -1248,7 +1248,7 @@ img {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-bottom: 28px;
+  padding-bottom: 10px;
   -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1435,6 +1435,7 @@ img {
 
 .modal {
   width: 528px;
+  height: 581px;
   background-color: #ffffff;
   position: absolute;
   top: 50%;
